@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No.6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 21.05.2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+### Name: Pugazhalenthi V
+### Register Number: 212224100047
 
-### Name:
-### Register Number:
+<img width="1882" height="776" alt="empd exp 6 1 diagram" src="https://github.com/user-attachments/assets/585fd606-bc0c-4300-b8c3-c52b344429ef" />
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
